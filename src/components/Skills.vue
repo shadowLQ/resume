@@ -10,7 +10,7 @@
             <strong>工具：</strong>{{skills.tools.join(', ')}}
         </li>
         <li>
-            <strong>测试&部署</strong>{{skills.tests.join(', ')}}
+            <strong>测试&部署：</strong>{{skills.tests.join(', ')}}
         </li>
     </ul>
 </template>
